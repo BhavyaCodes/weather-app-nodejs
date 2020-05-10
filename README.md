@@ -1,12 +1,18 @@
+
 **apikey.js**
+=
 
-    module.exports = {
-    			key:key
-    }
+	module.exports  =  {
 
+		weatherKey:weatherKey,
 
-module for request - postman-request
+		mapBoxKey:mapAccessToken
 
-  
-
+	}
+module for request - **postman-request**
 request is deprecated (but still works)
+
+**APIs used -**
+=
+ - weatherstack.com
+ - mapbox.com

@@ -1,6 +1,8 @@
+module for request - **postman-request**
+
+request is deprecated (but still works)
 
 **apikey.js**
-=
 
 	module.exports  =  {
 
@@ -10,6 +12,7 @@
 
 	}
 module for request - **postman-request**
+
 request is deprecated (but still works)
 
 **APIs used -**

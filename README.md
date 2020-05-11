@@ -1,6 +1,8 @@
+
 **How to use -**
+
 	$ node app.js "new york"
-	$ node app.js "paris"
+	$ node app.js paris
 
 module for request - **postman-request**
 
